@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>lab2.qml</file>
+        <file>USB.qml</file>
+        <file>PageButton.qml</file>
+        <file>300px-Безмятежность.png</file>
+        <file>lab3.qml</file>
+        <file>lab4.qml</file>
+    </qresource>
+</RCC>

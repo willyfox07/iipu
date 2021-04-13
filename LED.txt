@@ -1,0 +1,1 @@
+  auto repeat:  on    key click percent:  0    LED mask:  00000000
